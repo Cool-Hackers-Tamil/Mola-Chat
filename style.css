@@ -1,0 +1,78 @@
+
+body{
+  background-color: #59A374;
+  }
+.logo{
+  padding-bottom:0;
+  
+  padding-left:30px;
+}
+app_ss{
+  align-items: center;
+  }
+:meno{
+  margin:25px;
+  }
+
+:looby{
+  margin:25px;
+  }
+
+:win{
+  margin:25px;
+  }
+btn{
+padding:10px;
+}  
+a{ 
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+flex-direction: column;
+display: block;
+
+background: #959BDE; color: #fff;
+
+padding: 10px;
+
+cursor: pointer;
+
+text-decoration: none; width: 500px;
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+transition:all 0.5s;
+text-align: center;
+font-family: 'Zen Tokyo Zoo', Cursivr
+border-radius: 10px;
+
+font-size: 45px;
+
+}
+a:hover{
+  background: #2633BE;
+}
+h1{
+  color:black;
+}
+ap:{
+  color: blue;
+  text-align: center;
+  font-size: 25px;
+  
+button{
+  background-color: #FF0000;
+padding-bottom:10px;
+  padding-left:10px;
+  padding-right:10px;
+}
+p1{
+  color:green;
+}
+P{
+  color:blue;
+  padding-top:10px;
+  
+}
