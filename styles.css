@@ -16,6 +16,7 @@ h2{
 
 btn{
 padding:10px;
+border-radius: 10px;
 }  
 a{ 
 display: flex;
