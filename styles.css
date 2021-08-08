@@ -13,3 +13,34 @@ p{
 h2{
   color: #FFFFFF;
   }
+
+btn{
+padding:10px;
+}  
+a{ 
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+flex-direction: column;
+display: block;
+
+background: #959BDE; color: #fff;
+
+padding: 10px;
+
+cursor: pointer;
+
+text-decoration: none; width: 500px;
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+transition:all 0.5s;
+text-align: center;
+font-family: 'Zen Tokyo Zoo', Cursivr
+border-radius: 10px;
+
+font-size: 45px;
+
+}
