@@ -23,11 +23,14 @@ app_ss{
   }
 btn{
 padding:10px;
+border-radius: 10px;
 }  
 a{ 
 display: flex;
 
-justify-content: center;
+border-radius: 10px;
+  
+justifycontent: center;
 
 align-items: center;
 
@@ -46,8 +49,6 @@ text-decoration: none; width: 500px;
 transition:all 0.5s;
 text-align: center;
 font-family: 'Zen Tokyo Zoo', Cursivr
-border-radius: 10px;
-
 font-size: 45px;
 
 }
